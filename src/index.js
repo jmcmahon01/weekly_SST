@@ -1,8 +1,9 @@
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './css/styles.css';
-import { Template } from './js/template.js';
-Template();
+import { LCMS } from './js/lcms.js';
+LCMS();
+
 
 
 
